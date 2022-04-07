@@ -2,16 +2,13 @@
 
 This repository includes the implentation of R peak detection method in [Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9451595).
 
-
-
-
-
 ![The proposed systematic approach and network architecture](https://user-images.githubusercontent.com/43520052/162128277-43fef402-38c6-4bdd-b198-2ca117a7fae7.png)
 
 
+## Dataset
 
-
-
+- [The China Physiological Signal Challenge 2020](http://2020.icbeb.org/CSPC2020), (CPSC-2020) dataset is used for training & testing.
+- R peak annotations are already available in the data folder.
 
 ## Citation
 
