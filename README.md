@@ -5,6 +5,10 @@ This repository includes the implentation of R peak detection method in [Robust 
 ## Network Architecture
 ![The proposed systematic approach and network architecture](https://user-images.githubusercontent.com/43520052/162128277-43fef402-38c6-4bdd-b198-2ca117a7fae7.png)
 
+## Verification Model
+![image](https://user-images.githubusercontent.com/43520052/162134457-fe87131b-ea9c-461c-804c-c1c23c269cc1.png)
+
+
 
 ## Dataset
 
