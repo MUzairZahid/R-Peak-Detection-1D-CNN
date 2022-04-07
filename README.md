@@ -23,9 +23,9 @@ This repository includes the implentation of R peak detection method in [Robust 
 ```http
   python prepare_data_augmentation.py
 ```
-- Start evaluation.
+- Start patient wise training and evaluation.
 ```http
-  python test.py
+  python run_cnn.py
 ```
 
 
