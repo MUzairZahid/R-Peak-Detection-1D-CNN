@@ -1,6 +1,6 @@
 # Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network
 
-
+This repository includes the implentation of R peak detection method in [Robust R-Peak Detection in Low-Quality Holter ECGs Using 1D Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9451595).
 
 
 
