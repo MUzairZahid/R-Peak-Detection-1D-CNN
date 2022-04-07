@@ -10,6 +10,26 @@ This repository includes the implentation of R peak detection method in [Robust 
 - [The China Physiological Signal Challenge 2020](http://2020.icbeb.org/CSPC2020), (CPSC-2020) dataset is used for training & testing.
 - R peak annotations are already available in the data folder.
 
+
+## Run
+
+#### Train
+- Download CPSC data from the link to the "data/" folder
+- Data Preparation without augmentation
+```http
+  python prepare_data.py
+```
+- Data Preparation with augmentation
+```http
+  python prepare_data_augmentation.py
+```
+- Start evaluation.
+```http
+  python test.py
+```
+
+
+
 ## Citation
 
 If you use the provided method in this repository, please cite the following paper:
